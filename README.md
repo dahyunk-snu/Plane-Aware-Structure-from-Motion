@@ -15,3 +15,7 @@ Plane-associated points are iteratively moved toward their planes while monitori
 
 - Iterative Refinement: 
 The system alternates between bundle adjustment and plane snapping, improving planar alignment while preserving camera pose quality.
+
+## Report
+
+- 📄 [Report](./report.pdf)
